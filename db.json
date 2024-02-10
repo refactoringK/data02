@@ -1,0 +1,83 @@
+{
+  "boards": [
+    {
+      "number":1,
+      "title": "안녕하세요",
+      "content" : "날씨가 추워요~",
+      "author" : "aaa",
+      "comments" : [
+        {
+          "number" : 1,
+          "content" : "네 안녕하세요~",
+          "author" : "bbb"
+        }
+      ]
+    },
+    {
+      "number":2,
+      "title": "데이터 분석 질문!",
+      "content" : "시각화 라이브러리 뭘 사용하나요?",
+      "author" : "bbb",
+      "comments" : [
+        {
+          "number" : 2,
+          "content" : "matplotlib 사용하면 쉬워요",
+          "author" : "ccc"
+        },
+        {
+          "number" : 3,
+          "content" : "저도 matplotlib 사용합니다!",
+          "author" : "ddd"
+        },
+      ]
+    },
+    {
+      "number":3,
+      "title": "pandas가 안돼요ㅜ",
+      "content" : "pandas 설치 후 import가 안되는데 어쩌죠?",
+      "author" : "aaa",
+      "comments" : [
+        {
+          "number" : 4,
+          "content" : "오류 내용이랑 코드 올려주세요",
+          "author" : "bbb"
+        },
+        {
+          "number" : 5,
+          "content" : "네 잠시만요",
+          "author" : "aaa"
+        }
+      ]
+    },
+    {
+      "number":4,
+      "title": "dbms 오라클 책 추천해주세요",
+      "content" : "오라클 공부하고 싶어요",
+      "author" : "eee",
+      "comments" : [
+        {
+          "number" : 6,
+          "content" : "XXX 추천합니다.",
+          "author" : "aaa"
+        },
+        {
+          "number" : 7,
+          "content" : "XXX 추천합니다.",
+          "author" : "ccc"
+        },
+        {
+          "number" : 8,
+          "content" : "XXX 추천합니다.",
+          "author" : "ddd"
+        }
+      ]
+    },
+    {
+      "number":5,
+      "title": "오늘 비오나요?",
+      "content" : "우산 안챙겼는데ㅜ",
+      "author" : "ddd",
+      "comments" : []
+    }
+  ]
+}
