@@ -77,7 +77,9 @@
       "title": "오늘 비오나요?",
       "content" : "우산 안챙겼는데ㅜ",
       "author" : "ddd",
-      "comments" : []
+      "comments" : [
+        {}
+      ]
     }
   ]
 }
